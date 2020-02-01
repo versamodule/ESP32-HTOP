@@ -1,6 +1,7 @@
 # ESP32-HTOP
 
 An ESP32 HTOP like example showing the amount of CPU usage for each task and each CPU core.
+
 This was compiled using ESP32-IDF v3.3.1
 
 
